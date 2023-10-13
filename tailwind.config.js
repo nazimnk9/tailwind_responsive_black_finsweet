@@ -7,6 +7,7 @@ tailwind.config = {
                 nav_btn: '#1C1D28',
                 sub_heading: '#161722',
                 service_item_background: '#FFF5EB',
+                watch_background: '#F5F2F0',
             },
             maxWidth: {
                 'container': '1280px',
@@ -16,6 +17,7 @@ tailwind.config = {
             },
             backgroundImage: {
                 'banner': "url('images/banner.jpg')",
+                overlay: 'linear-gradient(40deg, #060606 16.68%, rgba(0, 0, 0, 0.02) 96.44%);'
             },
             fontSize: {
                 banner_heading: "64px",
