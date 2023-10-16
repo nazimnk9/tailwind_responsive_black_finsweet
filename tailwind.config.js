@@ -19,6 +19,7 @@ tailwind.config = {
                 'banner': "url('images/banner.jpg')",
                 overlay: 'linear-gradient(40deg, #060606 16.68%, rgba(0, 0, 0, 0.02) 96.44%)',
                 text_gradient: "linear-gradient(110deg, #A54E2B -53.83%, #DC9853 62.61%)",
+                visit_bg: "url('./images/visit_background.jpg')",
             },
             fontSize: {
                 banner_heading: "64px",
